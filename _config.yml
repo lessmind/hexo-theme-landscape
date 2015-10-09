@@ -2,7 +2,8 @@
 menu:
   Home: /
   Archives: /archives
-  GitHub: https://github.com/tommy351
+  About: /About
+  GitHub: https://github.com/lessmind
 rss: /atom.xml
 
 # Content
@@ -10,18 +11,18 @@ excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-sidebar: false
+sidebar: true
 widgets:
+- recent_posts
 - category
 - tag
-- tagcloud
+# - tagcloud
 - archive
-- recent_posts
 
 # Miscellaneous
-google_analytics: UA-4910098-7
+google_analytics: UA-68626281-1
 favicon:
-twitter: tommy351
-google_plus: 108777679171675250079
-fb_admins: 100000247608790
+twitter: nevermindChao
+google_plus:
+fb_admins:
 fb_app_id:
